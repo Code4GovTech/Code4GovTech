@@ -7,11 +7,11 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 const ImageList = [
   {
-    img: '/img/c4gt22participants.jpeg',
+    img: '/img/c4gt22participants.webp',
     title: 'C4GT - 2022 participants',
   },
   {
-    img: '/img/c4gt23participants.jpeg',
+    img: '/img/c4gt23participants.webp',
     title: 'C4GT - 2022 participants',
   } 
 ];
